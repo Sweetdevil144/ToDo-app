@@ -7,7 +7,7 @@ function TaskInput({ onSubmit }) {
     const trimmedValue = value.trim();
     if(trimmedValue){
       onSubmit(trimmedValue);
-      event.target.newItem.value = ""; // clear input field after adding
+      event.target.newItem.value = ""; 
     }
   }
 

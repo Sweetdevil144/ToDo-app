@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 import TaskInput from "./TaskInput";
 import TaskItem from "./TaskItem";
-import "../styles.css";
-
+import "../styles.css"
 function App() {
   const [tasks, setTasks] = useState([]);
 
