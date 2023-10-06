@@ -5,3 +5,4 @@ Made With ReactJs + Vite
 ## Run the following commands 
 * npm i
 * npm run dev
+* Fuck this
